@@ -1,0 +1,17 @@
+Written by: Darren Ting(darrent) and Aviraj Sinha (avirajs)
+Functionality: To play, use a,s,k,l for player 1 place and slap,
+and player 2 place and slap respectively
+We also used multiple modules:
+PIL: http://www.pythonware.com/products/pil/
+pyaudio: https://people.csail.mit.edu/hubert/pyaudio/
+TKinter
+and wave
+We imported pictures from the following:
+http://all-free-download.com/free-vector/free-vector-playing-cards.html
+http://www.kardify.com/2013/05/designers-joshua-m-smiths-playing-card.html
+http://www.homess.link/other-design/wood-table-top-texture/
+http://i.imgur.com/xsKUETn.gif
+and http://cooldesktop.blogspot.com/2011/06/space-planets-comets-and-galaxy_08.html
+We also used the following song on WAV: Final Destination Suber SMash Bros Brawl Theme
+And the following fonts: Alien League, Castellar
+We also utilized multithreaded programming for background music and object oriented programming for cards
